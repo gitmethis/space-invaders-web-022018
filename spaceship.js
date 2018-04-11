@@ -1,1 +1,4 @@
-class Spaceship {}
+class Spaceship {
+  
+}
+
